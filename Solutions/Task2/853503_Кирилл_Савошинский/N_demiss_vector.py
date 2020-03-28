@@ -1,7 +1,8 @@
 class NVector(object):
 
     def __init__(self, vect):
-        self.v = vect
+        if isinstance(vect, list):
+            self.v = vect
 
     def __add__(self, other):
         if len(self.v) == len(other):
