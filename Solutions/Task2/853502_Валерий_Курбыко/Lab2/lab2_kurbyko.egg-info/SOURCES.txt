@@ -1,0 +1,5 @@
+setup.py
+lab2_kurbyko.egg-info/PKG-INFO
+lab2_kurbyko.egg-info/SOURCES.txt
+lab2_kurbyko.egg-info/dependency_links.txt
+lab2_kurbyko.egg-info/top_level.txt
